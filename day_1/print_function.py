@@ -1,0 +1,6 @@
+print('this is text')
+print('this is a new line', end=' ___ ')
+print('i')
+print('am', end='+++++')
+print('batman', end='')
+print(' --> i am not in next line ')

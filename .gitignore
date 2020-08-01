@@ -5,3 +5,5 @@ __pycache__
 day_1/__pycache__
 day_2/__pycache__
 *.iml
+day_1/.ipynb_checkpoints
+day_2/.ipynb_checkpoints
