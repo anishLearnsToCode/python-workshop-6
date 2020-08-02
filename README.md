@@ -177,6 +177,17 @@ python hello_world.py
 ## [Day 2](https://github.com/anishLearnsToCode/python-workshop-6/tree/master/day_2)
 
 ### Topics Covered
+- [List Iterable](day_2/list_iterable.py)
+- [List Comprehension](day_2/list_comrehension.py)
+- [Yield Statements and Generators](day_2/yeild_statement.py)
+- [Inbuilt Functions](day_2/inbuilt_functions.py)
+- [Tuples](day_2/tuples.py)
+- [Dictionary](day_2/dictionary.py)
+- [Complex Dictionaries](day_2/complex_dictionary.py)
+- [Frequency of Words in Sentence](day_2/frequency.py)
+- [Strings](day_2/strings.py)
+- [Math Package](day_2/math_package.py)
+- [Random Package](day_2/random_package.py)
 
 ### Sample Questions
 | Question | Solution Link |
