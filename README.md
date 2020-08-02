@@ -16,7 +16,7 @@
 </details>
 
 [Workshop Link (Zoom) 📺](https://us02web.zoom.us/w/87595123657?tk=H-vUt4sLAl-_RvAb-ViYK9YNqEhcUaisM5VlfxIaNiw.DQIAAAAUZRODyRZPRUNzWnQ5cVREZXRuN0dFa0ZQejR3AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=bEM5R2FveStkS3RRUDJ4YWtYNkZEUT09)
-[Class Recordings 📽 (to be added soon)]
+[Class Recordings 📽](https://onedrive.live.com/?authkey=%21APmU3s9xTNLwsnY&id=BD99C9D5BDB4DD2E%2193860&cid=BD99C9D5BDB4DD2E)
 [Course Flow 🌊](COURSE_FLOW.md)
 
 ## Index
