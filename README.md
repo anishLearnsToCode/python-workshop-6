@@ -1,8 +1,5 @@
 # Python 🐍 Basics Workshop @What After College
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/python-workshop-6)
-[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 [![hackerrank-python](https://img.shields.io/badge/hackerrank-python-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-python)
 [![hackerrank-ds](https://img.shields.io/badge/hackerrank-Data%20Structures-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-data-structures)
 [![hackerrank-algo](https://img.shields.io/badge/hackerrank-algorithms-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-algorithms)
